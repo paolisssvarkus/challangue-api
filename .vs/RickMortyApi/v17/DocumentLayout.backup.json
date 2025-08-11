@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|c:\\users\\paolalissetsantollov\\source\\repos\\rickmortyapi\\rickmortyapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|solutionrelative:rickmortyapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|c:\\users\\paolalissetsantollov\\source\\repos\\rickmortyapi\\rickmortyapi\\websockets\\favoriteswebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|solutionrelative:rickmortyapi\\websockets\\favoriteswebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|c:\\users\\paolalissetsantollov\\source\\repos\\rickmortyapi\\rickmortyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|solutionrelative:rickmortyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|c:\\users\\paolalissetsantollov\\source\\repos\\rickmortyapi\\rickmortyapi\\models\\websocketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|solutionrelative:rickmortyapi\\models\\websocketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|c:\\users\\paolalissetsantollov\\source\\repos\\rickmortyapi\\rickmortyapi\\models\\configurationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF22B863-4C6E-4748-9C7F-500A4AFE1A9F}|RickMortyApi\\RickMortyApi.csproj|solutionrelative:rickmortyapi\\models\\configurationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PaolaLissetSantolloV\\source\\repos\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PaolaLissetSantolloV\\AppData\\Local\\Temp\\xk2hpl4e..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigurationModels.cs",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Models\\ConfigurationModels.cs",
+              "RelativeDocumentMoniker": "RickMortyApi\\Models\\ConfigurationModels.cs",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Models\\ConfigurationModels.cs",
+              "RelativeToolTip": "RickMortyApi\\Models\\ConfigurationModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T04:38:56.258Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoritesWebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\WebSockets\\FavoritesWebSocketHandler.cs",
+              "RelativeDocumentMoniker": "RickMortyApi\\WebSockets\\FavoritesWebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\WebSockets\\FavoritesWebSocketHandler.cs",
+              "RelativeToolTip": "RickMortyApi\\WebSockets\\FavoritesWebSocketHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T23:46:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSocketModel.cs",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Models\\WebSocketModel.cs",
+              "RelativeDocumentMoniker": "RickMortyApi\\Models\\WebSocketModel.cs",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Models\\WebSocketModel.cs",
+              "RelativeToolTip": "RickMortyApi\\Models\\WebSocketModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:47:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "xk2hpl4e..sql",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\AppData\\Local\\Temp\\xk2hpl4e..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\xk2hpl4e..sql",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\AppData\\Local\\Temp\\xk2hpl4e..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\xk2hpl4e..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-05T06:00:28.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Program.cs",
+              "RelativeDocumentMoniker": "RickMortyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Program.cs",
+              "RelativeToolTip": "RickMortyApi\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAkwIEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:55:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "..\\SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\SQLQuery3.sql",
+              "RelativeToolTip": "..\\SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-05T04:54:55.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "RickMortyApi\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\PaolaLissetSantolloV\\source\\repos\\RickMortyApi\\RickMortyApi\\Controllers\\FavoritesController.cs*",
+              "RelativeToolTip": "RickMortyApi\\Controllers\\FavoritesController.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwFsAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:42:59.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
